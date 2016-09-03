@@ -1,40 +1,40 @@
-favicon: null
-name: KvL
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3593155
   brandStrength: 0.1265664
   lightness: 0.5037594
   brandColors:
-    - '#FFFFFF'
-    - '#777777'
-    - '#5B431F'
-    - '#000100'
-    - '#CDC1B3'
+    - '#F2F4F3'
+    - '#1C1E1D'
+    - '#908571'
+    - '#564E41'
+    - '#C6BAA2'
   rhythmicContrast: 0.5545849
-typography_spectrum: 0.6953188304323703
-layout_spectrum: 0.7425247114151716
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: KvL
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6953188304323703
+layout_spectrum: 0.7425247114151716
